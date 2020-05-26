@@ -3,4 +3,4 @@ Una opción para hacer anuncios homogéneos en Territorium para instructores SEN
 
 |Color|Código HTML|
 |-----|----------------|
-|Naranja|naranja.html|
+|Naranja|<a href="naranja.html" title="Código HTML Anuncio color naranja Territorium">naranja.html</a>|
